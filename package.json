@@ -1,9 +1,24 @@
 {
-    "dependencies": {
-        "cors": "^2.8.5",
-        "express": "^4.17.1"
-    },
-    "scripts": {
-        "start": "node server.js"
-    }
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "cabananova",
+  "description": "Já se deparou com o custo para anunciar ou vender um imóvel nos dias atuais?  \r Para se ter uma ideia as grandes plataformas de anúncios do mercado possuem planos que iniciam em R$ 199 e vai até R$ 1.000 mensais, isso mesmo, o valor é pago mensalmente! E dependendo da cidade e região, o valor pode variar um pouco.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cabanaNova/api.git"
+  },
+  "author": "Maicon Moreno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cabanaNova/api/issues"
+  },
+  "homepage": "https://github.com/cabanaNova/api#readme"
 }
